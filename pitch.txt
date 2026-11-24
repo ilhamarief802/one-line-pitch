@@ -1,1 +1,1 @@
-Describe the app in the words you would use at dinner — "split our rent, nag whoever is late" — and an AI agent on make.fun builds it; you judge the result, not the code.
+You have explained that idea to three friends who nodded and never built it: on make.fun you explain it once, in one sentence, and an agent builds it.
