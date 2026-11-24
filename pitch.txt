@@ -1,1 +1,1 @@
-You have said "I would build that if I could code" about a hundred ideas; on make.fun you describe one in a plain sentence and an AI agent builds it, so the idea stops being a maybe.
+Describe the app in the words you would use at dinner — "split our rent, nag whoever is late" — and an AI agent on make.fun builds it; you judge the result, not the code.
