@@ -1,0 +1,1 @@
+That app you have been sketching on napkins for years: describe it in one plain sentence on make.fun, let an AI agent build it, and finally use the thing instead of explaining it.
